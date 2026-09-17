@@ -1,0 +1,6 @@
+phase,sequence,e1,e2
+0,beta12-beta22-beta12,-77021/5000000,-120667/10000000
+0,beta22-beta12-beta22,0,0
+0,beta22-beta22-beta12,3/20,-1/10
+1,beta12-beta12-beta22,-1/10,0
+1,beta12-beta22-beta12,0,0
